@@ -2,24 +2,24 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+baseurl: "/PokeVoid"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2021
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: POKEVOID
+serverDescription: Pokemon en minecraft!
+serverIP: void.mcraft.pro
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/ZujYp5xtDj
+discordServerID: 549612291419799552
+discordChannelID: 853577281593933824
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
