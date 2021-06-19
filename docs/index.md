@@ -13,6 +13,6 @@ cellLinks:
     cimage: media/vote.png
 
   - cname: Blog
-    curl: 
+    curl: vote
     cimage: media/forums.png
 ---
