@@ -6,7 +6,7 @@ navname: Home
 cellLinks:
   - cname: Mapa
     curl: 
-    cimage: media/store.jpg
+    cimage: media/store.png
 
   - cname: Ingreso
     curl: 
