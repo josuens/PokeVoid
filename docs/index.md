@@ -6,13 +6,13 @@ navname: Home
 cellLinks:
   - cname: Mapa
     curl: 
-    cimage: media/demo02.jpg
+    cimage: media/store.jpg
 
   - cname: Ingreso
     curl: 
-    cimage: media/demo03.jpg
+    cimage: media/vote.png
 
   - cname: Blog
     curl: 
-    cimage: media/demo04.jpg
+    cimage: media/forums.png
 ---
