@@ -5,7 +5,7 @@ navname: Home
 # Cells at the bottom of the page
 cellLinks:
   - cname: Mapa
-    curl: 
+    curl: map
     cimage: media/store.png
 
   - cname: Ingreso
