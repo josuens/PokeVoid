@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://voidesport.com/whitelist/
+tourl: https://whitelist.voidesport.com/
 ---
