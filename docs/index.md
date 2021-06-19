@@ -9,10 +9,10 @@ cellLinks:
     cimage: media/store.png
 
   - cname: Ingreso
-    curl: screenshots
+    curl: whitelist
     cimage: media/vote.png
 
   - cname: Blog
-    curl: donate
+    curl: foro
     cimage: media/forums.png
 ---
