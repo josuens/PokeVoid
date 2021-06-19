@@ -9,7 +9,7 @@ cellLinks:
     cimage: media/store.png
 
   - cname: Ingreso
-    curl: 
+    curl: screenshots
     cimage: media/vote.png
 
   - cname: Blog
