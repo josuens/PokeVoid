@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://whitelist.voidesport.com/
+tourl: https://foropoke.enjin.com/whitelist
 ---
