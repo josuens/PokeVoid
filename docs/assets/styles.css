@@ -8,7 +8,6 @@ html {
 }
 
 body {
-    background-color: #272727;
     background-image: url('../docs/media/minecraft.jpg');
     font-family: 'Jost', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
