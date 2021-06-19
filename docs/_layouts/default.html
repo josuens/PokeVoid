@@ -68,13 +68,13 @@ layout: compress
         
         <!-- show status if no siteNav -->
         {% if site.siteNav %}{% else %}
-        <div id="serverStatus" class="text-gray-200 hidden md:block cursor-pointer"></div>
+        <div id="serverStatus" class="text-gray-700 hidden md:block cursor-pointer"></div>
         {% endif %}
 
         {% if site.siteNav %}{% else %}
         <!-- only show mobile status if no siteNav -->
         <div class="block md:hidden">
-            <div id="serverStatusM" class="text-gray-200 py-2 md:py-4"></div>
+            <div id="serverStatusM" class="text-gray-700 py-2 md:py-4"></div>
         </div>
 
         <!-- show loading for status API only if javascript is enabled -->
