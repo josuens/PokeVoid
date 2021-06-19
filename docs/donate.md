@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://foro.voidesport.com/
+tourl: https://foropoke.enjin.com/
 ---
