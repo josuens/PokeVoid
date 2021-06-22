@@ -12,7 +12,7 @@ cellLinks:
     curl: whitelist
     cimage: media/vote.png
 
-  - cname: Blog
+  - cname: Foro
     curl: foro
     cimage: media/forums.png
 ---
