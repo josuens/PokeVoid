@@ -12,7 +12,7 @@ cellLinks:
     curl: foro
     cimage: media/forums.png
     
-  - cname: Tienda (Próximamente)
+  - cname: Tienda
     curl: shop
     cimage: media/store.png
     
