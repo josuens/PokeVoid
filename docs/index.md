@@ -8,11 +8,15 @@ cellLinks:
     curl: map
     cimage: media/store.png
 
-  - cname: Ingreso
+  - cname: Whitelist
     curl: whitelist
     cimage: media/vote.png
 
   - cname: Foro
     curl: foro
+    cimage: media/forums.png
+    
+  - cname: Tienda (Próximamente)
+    curl: 
     cimage: media/forums.png
 ---
