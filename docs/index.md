@@ -4,10 +4,6 @@ navname: Home
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: Mapa
-    curl: map
-    cimage: media/store.png
-
   - cname: Whitelist
     curl: whitelist
     cimage: media/vote.png
@@ -18,5 +14,9 @@ cellLinks:
     
   - cname: Tienda (Próximamente)
     curl: 
-    cimage: media/forums.png
+    cimage: media/store.png
+    
+   - cname: Mapa
+    curl: map
+    cimage: media/map.png
 ---
