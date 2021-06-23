@@ -13,7 +13,7 @@ cellLinks:
     cimage: media/forums.png
     
   - cname: Tienda (Próximamente)
-    curl: 
+    curl: shop
     cimage: media/store.png
     
   - cname: Mapa
