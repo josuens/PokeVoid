@@ -16,7 +16,7 @@ cellLinks:
     curl: 
     cimage: media/store.png
     
-   - cname: Mapa
+  - cname: Mapa
     curl: map
     cimage: media/map.png
 ---
