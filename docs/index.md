@@ -4,7 +4,7 @@ navname: Home
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: Whitelist
+  - cname: Whitelist Pokemon
     curl: whitelist
     cimage: media/vote.png
 
@@ -16,7 +16,7 @@ cellLinks:
     curl: shop
     cimage: media/store.png
     
-  - cname: Mapa
+  - cname: Mapa Pokemon
     curl: map
     cimage: media/map.png
 ---
